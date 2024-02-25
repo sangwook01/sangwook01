@@ -4,6 +4,10 @@
 Career
 | 활동기간 | 기관 | 명칭 | 비고 |
 | :------: | :------: | :------: | :------: |
+| 2019.02 | 김천고등학교 | 84기 | 고등학교 | 졸업 |
+| 2020.03 ~ | 국민대학교 | AI빅데이터융합경영학과 | 제1전공 |
+| 2022.10 ~ | 국민대학교 | 데이터사이언스전공 | 융합전공 |
+
 <!--
 **sangwook01/sangwook01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
