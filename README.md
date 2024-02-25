@@ -17,6 +17,13 @@ I want to be DATA SCIENTIST!
 | :------: | :------: | :------: | :------: |
 |2023|ADsP|한국데이터산업진흥원|영구|
 
+## Competition
+|주관|대회(프로젝트)명|분야|비고|
+|------|---|---|---|
+
+## Projects
+|주관|대회(프로젝트)명|분야|비고|
+|------|---|---|---|
 
 <!--
 **sangwook01/sangwook01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
