@@ -1,5 +1,6 @@
-### Hi there 👋
-##### welcome to my page!
+## Hi there 👋
+#### welcome to my page!
+I want to be DATA SCIENTIST! 
 
 ## Career
 | 활동기간 | 기관 | 명칭 | 비고 |
@@ -10,7 +11,6 @@
 | 2022.09~ 2023.01 | AI빅데이터융합경영학과 소모임 BAS | 운영진 | - |
 | 2023.01 ~  | AI빅데이터융합경영학과 소모임 BAS | 회장 | - |
 
-<br/>
 
 ## Certificate
 |취득 연도|자격증|주관|유효기간|
