@@ -2,6 +2,8 @@
 #### welcome to my page!
 I want to be DATA SCIENTIST! 
 
+### Realization = Vivid Dream!
+
 ## Career
 | 활동기간 | 기관 | 명칭 | 비고 |
 | :------: | :------: | :------: | :------: |
