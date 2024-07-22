@@ -39,6 +39,14 @@ I want to be DATA SCIENTIST!
 |[전공] 텍스트데이터분석(2024-1학기)|(네이버)뉴스 크롤링을 통한 환경 이슈 분석| NLP |[Link](https://github.com/sangwook01/Project/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D)|
 |[전공] 딥러닝(2024-1학기)|피부질환 판독 AI를 통한 의료 취약 지역 환자 투약 가이드라인 제공 방안| CV |(구현X), [Link](https://github.com/sangwook01/Project/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EB%94%A5%EB%9F%AC%EB%8B%9D)|
 
+
+
+
+<br/>
+![HitCount](http://hits.dwyl.com/{username}/{project}.svg)
+ex)
+![HitCount](http://hits.dwyl.com/azzyjk/Test.svg)]
+
 <!--
 **sangwook01/sangwook01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
