@@ -42,11 +42,6 @@ I want to be DATA SCIENTIST!
 
 
 
-<br/>
-![HitCount](http://hits.dwyl.com/{username}/{project}.svg)
-ex)
-![HitCount](http://hits.dwyl.com/azzyjk/Test.svg)]
-
 <!--
 **sangwook01/sangwook01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
