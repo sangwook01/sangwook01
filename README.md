@@ -16,7 +16,7 @@ I want to be DATA SCIENTIST!
 | 2024.01 ~  | AI빅데이터융합경영학과 소모임 BAS | 회장 | - |
 | 2024.03 ~ 05 | 국민대학교 | [전공 학회] D&A (DL) | 학회원(수료) |
 | 2024.07 ~  | 국민대학교 | [전공 학회] D&A (Conference) | 학회원 |
-| 2024.07.01 ~ 08.30 | LG | LG Aimers 5기  | 수료[Link](file:///C:/Users/thoma/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EA%B9%80%EC%83%81%EC%9A%B1/Lg%20Aimers%205%ED%9A%8C%20%EC%88%98%EB%A3%8C%EC%A6%9D.pdf) |
+| 2024.07.01 ~ 08.30 | LG | LG Aimers 5기  | 수료 [Link](file:///C:/Users/thoma/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EA%B9%80%EC%83%81%EC%9A%B1/Lg%20Aimers%205%ED%9A%8C%20%EC%88%98%EB%A3%8C%EC%A6%9D.pdf) |
 
 
 
