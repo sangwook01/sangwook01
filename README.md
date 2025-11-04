@@ -17,6 +17,10 @@ I want to be DATA SCIENTIST!
 | 2024.03 ~ 05 | 국민대학교 | [전공 학회] D&A (DL) | 학회원(수료) |
 | 2024.07 ~  | 국민대학교 | [전공 학회] D&A (Conference) | 학회원 |
 | 2024.07.01 ~ 08.30 | LG | LG Aimers 5기  | 수료 |
+| 2025.03.01 ~ 08.31| (주)핀인사이트 | Ict Internship  | - |
+| 2025.05.31 ~ | SK Telecome | Devocean AI Fellowship 7기  | Mentee |
+| 2025.09.01 ~ | (주)핀인사이트 | 계약직  | - |
+
 
 
 
@@ -42,6 +46,9 @@ I want to be DATA SCIENTIST!
 |------|---|---|---|
 |[전공] 텍스트데이터분석(2024-1학기)|(네이버)뉴스 크롤링을 통한 환경 이슈 분석| NLP |[Link](https://github.com/sangwook01/Project/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D)|
 |[전공] 딥러닝(2024-1학기)|피부질환 판독 AI를 통한 의료 취약 지역 환자 투약 가이드라인 제공 방안| CV |(구현X), [Link](https://github.com/sangwook01/Project/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EB%94%A5%EB%9F%AC%EB%8B%9D)|
+|[D&A] 2024 - 2학기)| ALL-IN-ONE 취업준비 솔루션 | NLP | - |
+|[알파프로젝트] 2025 - 1학기| Anamonly Sound Detection with Self-Supervised Learning | SSL ASD | - |
+|[SKTelecom] 2025 1~2학기 | MLLMs-RAG를 활용한 Zero/Few-Shot Medical Question Answering 시스템 연구 | GNN-RAG | - |
 
 
 
