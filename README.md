@@ -15,13 +15,13 @@ I want to be DATA SCIENTIST!
 | 2023.03 ~ 2024.11 | 국민대학교 | [전공 학회] D&A | 학회원(수료) |
 | 2024.12 ~ 2025.11 | 국민대학교 | [전공 학회] XAI | 학회원(수료) |
 | 2024.07.01 ~ 08.30 | LG | LG Aimers 5기  | 수료 |
-| 2025.05.31 ~ | SK Telecome | Devocean AI Fellowship 7기  | Mentee |
+| 2025.05.31 ~ 11.20| SK Telecome | Devocean AI Fellowship 7기  | Mentee |
 
 ## INTERN
 | 활동기간 | 회사 | 직급(명칭) | 비고 |
 | :------: | :------: | :------: | :------: |
-| 2025.03.01 ~ 08.31| (주)핀인사이트 | ICT Internship  | 솔루션본부 개발팀 데이터분석 직무 |
-| 2025.09.01 ~ | (주)핀인사이트 | 인턴(계약직)  | 솔루션본부 개발팀 데이터분석 직무 |
+| 2025.03.01 ~ 06.30| (주)핀인사이트 | ICT Internship  | 솔루션본부 개발팀 |
+| 2025.07.01 ~ 12.31| (주)핀인사이트 | 인턴(계약직)  | 솔루션본부 개발팀 |
 
 ## Certificate
 |취득 연도|자격증|주관|유효기간|
@@ -40,6 +40,7 @@ I want to be DATA SCIENTIST!
 |[전공] 딥러닝(2024-1학기)|피부질환 판독 AI를 통한 의료 취약 지역 환자 투약 가이드라인 제공 방안| CV |(구현X), [Link](https://github.com/sangwook01/Project/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EB%94%A5%EB%9F%AC%EB%8B%9D)|
 |[D&A] 2024 - 2학기)| ALL-IN-ONE 취업준비 솔루션 | NLP | - |
 |[알파프로젝트] 2025 - 1학기| Anamonly Sound Detection with Self-Supervised Learning | SSL ASD | - |
+|[X:AI] 2025 - 2학기| 개인 맞춤형 수학플래너 생성기 | NLP | - |
 |[SKTelecom] 2025 1~2학기 | MLLMs-RAG를 활용한 Zero/Few-Shot Medical Question Answering 시스템 연구 | GNN-RAG | - |
 
 
