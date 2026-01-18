@@ -15,7 +15,7 @@ I want to be DATA SCIENTIST!
 | 2023.03 ~ 2024.11 | 국민대학교 | [전공 학회] D&A | 학회원(수료) |
 | 2024.12 ~ 2025.11 | 국민대학교 | [전공 학회] XAI | 학회원(수료) |
 | 2024.07.01 ~ 08.30 | LG | LG Aimers 5기  | 수료 |
-| 2025.05.31 ~ 11.20| SK Telecome | Devocean AI Fellowship 7기  | Mentee |
+| 2025.05.31 ~ 11.20| SK텔레콤 | Devocean AI Fellowship 7기  | Mentee |
 
 ## INTERN
 | 활동기간 | 회사 | 직급(명칭) | 비고 |
