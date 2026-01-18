@@ -1,8 +1,7 @@
 ## Hi there 👋
 #### welcome to my page!
-I want to be DATA SCIENTIST! 
-
-### Realization = Vivid Dream!
+#### I want to be contribute Agentic AI service(platform)
+#### Realization = Vivid Dream!
 
 ## Career
 | 활동기간 | 주관 | 프로젝트명(명칭) | 비고 |
@@ -13,7 +12,7 @@ I want to be DATA SCIENTIST!
 | 2023.09 ~ 2024.01 | AI빅데이터융합경영학과 소모임 BAS | 운영진 | - |
 | 2024.01 ~ 2025.01 | AI빅데이터융합경영학과 소모임 BAS | 회장 | - |
 | 2023.03 ~ 2024.11 | 국민대학교 | [전공 학회] D&A | 학회원(수료) |
-| 2024.12 ~ 2025.11 | 국민대학교 | [전공 학회] XAI | 학회원(수료) |
+| 2024.12 ~ 2025.11 | 국민대학교 | [전공 학회] X:AI | 학회원(수료) |
 | 2024.07.01 ~ 08.30 | LG | LG Aimers 5기  | 수료 |
 | 2025.05.31 ~ 11.20| SK텔레콤 | Devocean AI Fellowship 7기  | Mentee |
 
